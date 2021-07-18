@@ -1,0 +1,17 @@
+.grid{
+	border: solid red 3px;
+	display: flex;
+	flex-wrap: wrap;
+	height: 300px;
+	width: 400px;
+}
+body{
+	background: linear-gradient(to right, rgb(242, 115, 202), rgb(226, 198, 209));
+	display: table;
+	float: none;
+	margin : 0px auto;
+}
+
+.ttl{
+	text-align: center;
+}
